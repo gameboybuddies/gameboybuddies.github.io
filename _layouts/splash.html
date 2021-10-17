@@ -2,24 +2,24 @@
 layout: default-splash
 ---
 
-<div class="container splash-main py-4">
+<div class="container splash-main py-3">
 
   <div class="row justify-content-between">
-    <div class="col-lg-6 mb-4">
+    <div class="col-lg-6 mb-3">
 
       {{ content }}
     
     </div>
-    <div class="col-lg-5">
+    <div class="col-lg-5 mt-2">
     
-      <p class="mb-4 text-center">{% include social-buttons.html %}</p>
-    
-      <figure><img src="/images/splash.png" /></figure>
-      
-      <p class="mt-5 text-center">
+      <p class="mb-5 text-center">
       <a href="https://opensea.io/collection/gameboybuddies/" class="btn btn-outline-light m-2">Explore the collection »</a>
       <a href="https://opensea.io/assets/gameboybuddies" class="btn btn-light m-2">Buy now on OpenSea »</a>
       </p>
+      
+      <figure><img src="/images/splash.png" /></figure>
+    
+      <p class="mt-5 text-center">{% include social-buttons.html %}</p>
       
     </div>
   </div>
