@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="container my-5">
+
+  <div class="row">
+    <div class="col-lg-8">
+  
+      <h1>{{ page.title }}</h1>
+      {% if page.excerpt %}<h2>{ page.excerpt }}</h2>{% endif %}
+      
+      {% if page.image %}
+      <figure class="figure">
+        <img src="/images/{{ page.image }}" class="figure-img" />
+        {% if page.imageurl %}<figcaption class="figure-caption text-end">Image: <a href="{{ page.imageurl }}">{{ page.imageurl | remove:'http://' | remove:'https://' | split:'/' | first }}</a>{% endif %}</figcaption>
+      </figure>
+      {% endif %}
+
+      {{ content }}
+    
+    </div>
+  </div>
+  
+</div>

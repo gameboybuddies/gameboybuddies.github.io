@@ -1,0 +1,17 @@
+# Site settings
+title: Game Boy Buddies
+description: Official home of the Game Boy Buddies pixel art NFT collection.
+url: "https://gameboybuddies.com"
+enforce_ssl: gameboybuddies.com
+permalink: /blog/:title/
+future: true
+
+# Account settings
+twitter: clry2
+facebook: 509241123
+ganalytics: UA-210317299-1
+
+# Build settings
+markdown: kramdown
+sass:
+  sourcemap: never
