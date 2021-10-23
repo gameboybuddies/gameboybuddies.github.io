@@ -9,7 +9,7 @@ permalink: /
 
 This pixel art project celebrates the Nintendo Game Boy, the greatest handheld video game console of all time.
 
-Game Boy Buddies exist as [NFTs](https://en.wikipedia.org/wiki/Non-fungible_token) minted on the [Polygon](https://support.opensea.io/hc/en-us/articles/1500012889322-How-do-I-purchase-NFTs-on-Polygon-) blockchain. Each item in the collection has been programatically generated with a unique combination of traits. Look out for:
+Game Boy Buddies are [NFTs](https://en.wikipedia.org/wiki/Non-fungible_token) minted on the [Polygon](https://support.opensea.io/hc/en-us/articles/1500012889322-How-do-I-purchase-NFTs-on-Polygon-) blockchain. Each item in the collection has been programatically generated with a unique combination of traits. Look out for:
 
 - The classic DMG-01, Game Boy Pocket and Game Boy Color colorways
 - Buttons, bezels and backlight mods in a range of colors
